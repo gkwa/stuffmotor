@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TaylorMonacelli/stuffmotor/issues"
   },
-  "homepage": "https://github.com/TaylorMonacelli/stuffmotor#readme"
+  "homepage": "https://github.com/TaylorMonacelli/stuffmotor#readme",
+  "publishConfig": {
+     "@TaylorMonacelli:registry": "https://npm.pkg.github.com"
+  }
 }
